@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="mysql-connector-java-8.0.18.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.18.jar!/"/>
+	</lib>
+	<lib name="Tomcat 9.0.30" scope="PROVIDED"/>
+	<levels>
+		<level name="Hibernate 5.4.9-5.4.9" value="project"/>
+		<level name="JPA 2.0-2.0" value="project"/>
+		<level name="mysql-connector-java-8.0.18" value="project"/>
+		<level name="Tomcat 9.0.30" value="application_server_libraries"/>
+	</levels>
+</component>
